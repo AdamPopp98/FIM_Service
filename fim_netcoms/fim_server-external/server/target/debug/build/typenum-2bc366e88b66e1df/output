@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/adam/Desktop/FIM_Service/fim_netcoms/fim_server-external/server/target/debug/build/typenum-2bc366e88b66e1df/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/adam/Desktop/FIM_Service/fim_netcoms/fim_server-external/server/target/debug/build/typenum-2bc366e88b66e1df/out/op.rs

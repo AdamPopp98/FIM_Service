@@ -1,0 +1,28 @@
+{
+  "name": "netcoms",
+  "version": "1.0.0",
+  "description": "Provides functionality for sending and receiving data over the network in the correct format.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamPopp98/FIM_Service.git"
+  },
+  "author": "Adam Popp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamPopp98/FIM_Service/issues"
+  },
+  "homepage": "https://github.com/AdamPopp98/FIM_Service#readme",
+  "dependencies": {
+    "console": "^0.7.2",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "net": "^1.0.2"
+  }
+}
